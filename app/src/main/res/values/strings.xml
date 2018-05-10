@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yatırım Hesabım</string>
+    <string name="yatirim_miktariniz">Yatırım Miktarınız:</string>
+    <string name="faiz_orani">Dönemlik Faiz Oranı: %</string>
+    <string name="donem_sayisi">Dönem Sayısı:</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="aciklama">Dönem Sonraki Paranızın Miktarı:</string>
+
+    <string name="yatirim_sonu_miktari">Beklenen Kazanç Miktarı:</string>
+    <string name="aciklamaPresentValue">Şuan Yatırılması Gereken Miktar:</string>
+</resources>
